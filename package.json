@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Reuno92/MeanProject/issues"
   },
-  "homepage": "https://github.com/Reuno92/MeanProject#readme"
+  "homepage": "https://github.com/Reuno92/MeanProject#readme",
+  "devDependencies": {
+    "jshint": "^2.9.6"
+  }
 }
