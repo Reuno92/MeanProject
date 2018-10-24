@@ -1,0 +1,26 @@
+{
+  "name": "meanproject",
+  "version": "1.0.0",
+  "description": "first MEAN project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reuno92/MeanProject.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "renaud racinet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reuno92/MeanProject/issues"
+  },
+  "homepage": "https://github.com/Reuno92/MeanProject#readme"
+}
